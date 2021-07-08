@@ -10,6 +10,3 @@ while numeros > 0:
     numeros = int(input('Ingrese numeros enteros para saber cuales son pares e impares '))
     
 print(f'la cantidad de numeros pares es {numeropar} y la cantidad de numeros impares es {numeroimpar}')
-
-        
-           

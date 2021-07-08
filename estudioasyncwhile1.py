@@ -15,9 +15,6 @@ if sumacompra > 1000:
     print(f'El valor total de su compra con descuento es de {desc}')
 else:
     print(f'El valor de su compra es de {sumacompra}')
-    
-    
-            
-
-
+   
+  
         
